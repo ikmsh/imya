@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\bin\Debug\whatismyname.exe.config
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\bin\Debug\whatismyname.exe
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\bin\Debug\whatismyname.pdb
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\App.g.cs
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname_MarkupCompile.cache
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname_MarkupCompile.lref
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname.g.resources
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname.Properties.Resources.resources
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname.csproj.GenerateResource.cache
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname.exe
+C:\Users\student\Desktop\nasledniki\whatismyname\whatismyname\obj\Debug\whatismyname.pdb
