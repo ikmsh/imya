@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\kchay\kchay\bin\Debug\kchay.exe.config
+C:\Users\student\Desktop\kchay\kchay\bin\Debug\kchay.exe
+C:\Users\student\Desktop\kchay\kchay\bin\Debug\kchay.pdb
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\App.g.cs
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay_MarkupCompile.cache
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay.g.resources
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay.Properties.Resources.resources
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay.csproj.GenerateResource.cache
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay.exe
+C:\Users\student\Desktop\kchay\kchay\obj\Debug\kchay.pdb
