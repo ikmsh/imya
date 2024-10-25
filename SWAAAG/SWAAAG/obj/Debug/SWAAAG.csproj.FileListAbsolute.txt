@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\App.g.cs
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG_MarkupCompile.cache
+C:\Users\student\Desktop\SWAAAG\SWAAAG\bin\Debug\SWAAAG.exe.config
+C:\Users\student\Desktop\SWAAAG\SWAAAG\bin\Debug\SWAAAG.exe
+C:\Users\student\Desktop\SWAAAG\SWAAAG\bin\Debug\SWAAAG.pdb
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG.g.resources
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG.Properties.Resources.resources
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG.csproj.GenerateResource.cache
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG.exe
+C:\Users\student\Desktop\SWAAAG\SWAAAG\obj\Debug\SWAAAG.pdb
